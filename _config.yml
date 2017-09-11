@@ -12,11 +12,11 @@ header: stay hungry, stay foolish
 # to replace image go to index.html
 email:
   address: "lulu_jiang@yahoo.com"
-  text: "user (at) example.com"
+  text: "lulu_jiang@yahoo.com"
 
 # disqus comment
 disqus:
-    shortname: "test" #your disqus comment short name
+    shortname: "disqus" #your disqus comment short name
 
 # google analytics
 google:
